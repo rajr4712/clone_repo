@@ -1,4 +1,4 @@
-var fullName = "Sidharth Gupta";
+var fullName = "Sidharth Agarwal";
 //camel case vairables, uppercase starting functions
 console.log(fullName);
 
